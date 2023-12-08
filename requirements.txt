@@ -1,0 +1,7 @@
+openai
+newsapi
+pydub
+langchain
+gTTS
+spacy
+duckduckgo_search
